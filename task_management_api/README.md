@@ -87,6 +87,5 @@ Throughout this project, challenges such as setting up complex validations, ensu
 Contributions
 Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
